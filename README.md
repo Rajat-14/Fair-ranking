@@ -146,11 +146,10 @@ RAPF is NP-hard, so approximation frameworks are implemented.
 ```bash
 git clone <your-repo-link>
 cd rank-aggregation-pfair
-pip install -r requirements.txt
 python main.py
 ```
 
-You can modify input datasets and choose algorithms inside `main.py`.
+You can modify input datasets and choose algorithms inside `main.py` and download the dependecies.
 
 ---
 
